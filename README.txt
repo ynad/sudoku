@@ -50,5 +50,5 @@ GPLv2, see LICENSE.md
 
 Author:
 -------
-ynad (github.com/ynad/pw-gen)
+ynad (github.com/ynad/)
 
